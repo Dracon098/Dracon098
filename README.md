@@ -45,6 +45,8 @@
     <li>Microsoft Excel/VBA;</li>
     <li>Ambientes de Programação e Versionamento (Jupyter, Git e GitHub);</li>
     <li>Plataformas para análise e processamento de dados em larga escala (PySpark, Databricks);</li>
+    <li>Machine Learning: modelos supervisionados e não supervisionados (Regressão, Classificação, Clustering);</li>
+    <li>Análises preditivas e prescritivas;</li>
     <li>Data Cleaning, Data Wrangling e Data Storytelling;</li>
     <li>Estatística (Descritiva, Inferencial);</li>
   </ul>
