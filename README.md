@@ -1,8 +1,10 @@
-<div>
-  <h1 align="justify">Olá, Tudo bem? Eu sou o Gabriel Henrique 😃</h1>
-  <p>Graduando em Análise e Desenvolvimento de Sistemas pela Universidade Anhanguera de Minas Gerais. <br>
-  Estudante das áreas de Análise, Engenharia e Ciência de Dados. <br>
-</p>
+<div align="center">
+  <h1>Olá, Tudo bem? Eu sou o Gabriel Henrique 😃</h1>
+  <p align="center">
+    Graduando em Análise e Desenvolvimento de Sistemas pela Universidade Anhanguera de Minas Gerais. <br>
+    Estudante das áreas de Análise, Engenharia e Ciência de Dados. <br>
+  </p>
+</div>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/gabriel-henrique1/" target="_blank">
@@ -15,12 +17,13 @@
 
 <div align="center" valign="top"><br>
   <h2>Tecnologias 💻</h2></br>
-<div>
-  <img src="https://user-images.githubusercontent.com/92809543/147505634-790c4187-0e0c-42cd-b3b5-b35c77c16347.png" width="80" height="80" alt="Tecnologia 1" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="80" height="80" alt="PySpark" />
-  <img src="https://user-images.githubusercontent.com/92809543/147508656-c98f7a17-504e-40f2-b710-c5031c0198fd.png" width="80" height="80" alt="Tecnologia 2" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="80" height="80" alt="Jupyter" />
-  <img src="https://user-images.githubusercontent.com/92809543/147506898-cf34755f-ee0d-484e-8239-cb1ecb4982e4.png" width="80" height="80" alt="Tecnologia 3" />
+  <div>
+    <img src="https://user-images.githubusercontent.com/92809543/147505634-790c4187-0e0c-42cd-b3b5-b35c77c16347.png" width="80" height="80" alt="Tecnologia 1" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="80" height="80" alt="PySpark" />
+    <img src="https://user-images.githubusercontent.com/92809543/147508656-c98f7a17-504e-40f2-b710-c5031c0198fd.png" width="80" height="80" alt="Tecnologia 2" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="80" height="80" alt="Jupyter" />
+    <img src="https://user-images.githubusercontent.com/92809543/147506898-cf34755f-ee0d-484e-8239-cb1ecb4982e4.png" width="80" height="80" alt="Tecnologia 3" />
+  </div>
 </div>
 
 <div align="center">
@@ -37,7 +40,7 @@
 <body>
   <ul>
     <li>Linguagem Python e suas principais bibliotecas (Pandas, Numpy, Matplotlib, Seaborn, Scikit-Learn);</li>
-    <li>Linguagem de Banco de Dados Relacionais (MySQL);</li>
+    <li>Linguagem de Banco de Dados Relacionais (SQL);</li>
     <li>Microsoft Power BI;</li>
     <li>Microsoft Excel/VBA;</li>
     <li>Ambientes de Programação e Versionamento (Jupyter, Git e GitHub);</li>
@@ -45,11 +48,3 @@
     <li>Estatística (Descritiva, Inferencial);</li>
   </ul>
 </body>
-
-<!-- <h1 align="center"> 
-  Trybe
-</h1>
-
-<div align="center">
-  ![Snake animation](https://github.com/italo013/italo013/blob/output/github-contribution-grid-snake.svg)
-</div> -->
