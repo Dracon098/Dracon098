@@ -1,8 +1,8 @@
 <div>
-  <h1 align="justify">Olá, Tudo bem? Eu sou o Marcos Vinícius</a> 😃️</h1>
-<p>Graduado em Engenharia de Alimentos pela Universidade Tecnológica Federal do Paraná. <br>
-  Estudante da área de Análise e Ciência de Dados. <br>
-  
+  <h1 align="justify">Olá, Tudo bem? Eu sou o Gabriel henrique</a> 😃️</h1>
+<p>Graduando em Análise e Desenvolvimento de Sistemas pela Universidade Tecnológica Federal do Paraná. <br>
+  Estudante das áreas de Análise, Engenharia e Ciência de Dados. <br>
+</p>
 <div align="center">
   <a href="https://www.instagram.com/marcosvnespolo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <!-- <a href="https://www.facebook.com/pr.eduardoribeiro" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>  -->
