@@ -19,7 +19,7 @@
   <h2>Tecnologias 💻</h2></br>
   <div>
     <img src="https://user-images.githubusercontent.com/92809543/147505634-790c4187-0e0c-42cd-b3b5-b35c77c16347.png" width="80" height="80" alt="Tecnologia 1" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="80" height="80" alt="PySpark" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png" width="80" height="80" alt="Databricks" />
     <img src="https://user-images.githubusercontent.com/92809543/147508656-c98f7a17-504e-40f2-b710-c5031c0198fd.png" width="80" height="80" alt="Tecnologia 2" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="80" height="80" alt="Jupyter" />
     <img src="https://user-images.githubusercontent.com/92809543/147506898-cf34755f-ee0d-484e-8239-cb1ecb4982e4.png" width="80" height="80" alt="Tecnologia 3" />
