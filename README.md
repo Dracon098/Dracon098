@@ -1,6 +1,6 @@
 <div>
   <h1 align="justify">Olá, Tudo bem? Eu sou o Gabriel henrique</a> 😃️</h1>
-<p>Graduando em Análise e Desenvolvimento de Sistemas pela Universidade Tecnológica Federal do Paraná. <br>
+<p>Graduando em Análise e Desenvolvimento de Sistemas pela Universidade Anhaguera de Minas Gerais. <br>
   Estudante das áreas de Análise, Engenharia e Ciência de Dados. <br>
 </p>
 <div align="center">
