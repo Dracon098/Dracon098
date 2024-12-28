@@ -23,8 +23,6 @@
     <img src="https://user-images.githubusercontent.com/92809543/147508656-c98f7a17-504e-40f2-b710-c5031c0198fd.png" width="80" height="80" alt="Tecnologia 2" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="80" height="80" alt="Jupyter" />
     <img src="https://user-images.githubusercontent.com/92809543/147506898-cf34755f-ee0d-484e-8239-cb1ecb4982e4.png" width="80" height="80" alt="Tecnologia 3" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/86/Microsoft_Excel_2013_logo.svg" width="80" height="80" alt="Excel" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_Power_Automate_logo.svg" width="80" height="80" alt="Power Automate" />
   </div>
 </div>
 
