@@ -41,10 +41,8 @@
     <li>Linguagem de Banco de Dados Relacionais (MySQL);</li>
     <li>Microsoft Power BI;</li>
     <li>Ambientes de Programação e Versionamento (Jupyter, Git e GitHub);</li>
-    <li>Estatística (Descritiva, Inferencial);</li>
     <li>Data Cleaning, Data Wrangling e Data Storytelling;</li>
-    <li>Machine Learning (Supervisionado, Não Supervisionado);</li>
-    <li>Processos e Metodologias Ágeis como CRISP-DM e SCRUM;</li>
+    <li>Estatística (Descritiva, Inferencial);</li>
   </ul>
 </body>
 
