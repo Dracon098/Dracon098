@@ -27,11 +27,78 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/Dracon098">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Dracon098&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true" alt="Estatísticas do GitHub" />
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dracon098&theme=dracula&hide_border=false&&layout=compact" alt="Linguagens mais usadas" />
+  <a href="https://github.com/GabrielHenrique620">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GabrielHenrique620&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true" alt="Estatísticas do GitHub" />
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielHenrique620&theme=dracula&hide_border=false&&layout=compact" alt="Linguagens mais usadas" />
   </a>
 </div>
+
+<h2 align="center">🌟 Principais Projetos 🚀</h2>
+
+<div align="center">
+
+<table>
+  <thead>
+    <tr>
+      <th align="center">🌟 Projeto</th>
+      <th align="center">📄 Descrição</th>
+      <th align="center">💻 Tecnologias</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/GabrielHenrique620/analise_segmentacao_clientes" target="_blank"><strong>Análise de Segmentação de Clientes</strong></a>
+      </td>
+      <td align="center">Identificação de segmentos de clientes para insights estratégicos.</td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python">
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/GabrielHenrique620/projeto_bi_dre" target="_blank"><strong>Dashboard Financeira - DRE</strong></a>
+      </td>
+      <td align="center">Dashboard em Power BI para análise de Demonstrativo de Resultados.</td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/-Power%20BI-F2C811?logo=power-bi&logoColor=black&style=for-the-badge" alt="Power BI">
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/GabrielHenrique620/projeto_bi_sac" target="_blank"><strong>Dashboard SAC</strong></a>
+      </td>
+      <td align="center">Monitoramento de indicadores de atendimento ao cliente em Power BI.</td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/-Power%20BI-F2C811?logo=power-bi&logoColor=black&style=for-the-badge" alt="Power BI">
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/GabrielHenrique620/projeto_streamlit_dashboard_vendas" target="_blank"><strong>Dashboard de Vendas com Streamlit</strong></a>
+      </td>
+      <td align="center">Aplicação interativa para análise de vendas utilizando Streamlit.</td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python">
+        <img src="https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=for-the-badge" alt="Streamlit">
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/GabrielHenrique620/analise_ecomerce" target="_blank"><strong>Análise de E-commerce</strong></a>
+      </td>
+      <td align="center">Análise exploratória de dados de um e-commerce com Python.</td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python">
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+</div>
+
+
+
 
 <div>
   <h2 align="left">O que tenho estudado nos últimos meses:</h2>
